@@ -1,2 +1,10 @@
 # Data-Visualisation-Dashboard-in-Python-with-Panel-or-Hvplot
-A 'Data Visualization Dashboard in Python with Panel/Hvplot' is an interface that involves creating dynamic and interactive data displays for easy insights. Leveraging Panel and Hvplot libraries, I crafted intuitive visualizations that streamline data interpretation. The dashboard allows users to explore datasets effortlessly, enabling informed decision-making. Through Python's flexibility and Panel's user-friendly interface, I designed customizable features tailored to specific needs. From plotting trends to analyzing patterns, the dashboard enhances data comprehension and facilitates communication. This project showcases my proficiency in Python programming and Data Visualization techniques, highlighting my ability to transform complex data into actionable insights.
+A 'Data Visualization Dashboard in Python with Panel/Hvplot' is an interface that creates dynamic and interactive data displays for easy insights. Leveraging the Panel and Hvplot libraries, it crafts intuitive visualizations that streamline data interpretation.
+
+More Info:
+
+• How does it work? The dashboard utilizes Panel for building user interfaces and Hvplot for creating interactive visualizations. It allows users to explore datasets effortlessly, enabling informed decision-making through customizable features tailored to specific needs.
+
+• Resources: (1.) Python programming language; (2.) Panel library; (3.) Hvplot library; (4.) Data manipulation libraries (e.g., Pandas, NumPy); and (5.) Version control systems (e.g., Git).
+
+• Showcased at (off-site): NIL
